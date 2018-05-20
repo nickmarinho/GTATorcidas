@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GTA Torcidas</string>
+    <string name="welcome_messages">This is the version <b>v2.4</b> of <b>GTA Torcidas</b> for android.\n<br/>
+        Into now only made for android.\n<br/>
+        \n<br/>
+        In this app you will have information about the server, listen the gt rádio, see the list of players of your team, as: directory, wins, etc...\n<br/>
+        \n<br/>
+        Made by <b>Linux Gete</b>:\n<br/>
+        \n<br/>
+        For doubts/sugestions\n<br/>
+        Face: <b>fb.com/linuxgete\n</b><br/>
+        Skype: <b>linux.gete\n</b><br/><br/>
+        2014-06-01 11:32\n<br/>
+    </string>
+    <string name="action_settings">Configurations</string>
+
+</resources>

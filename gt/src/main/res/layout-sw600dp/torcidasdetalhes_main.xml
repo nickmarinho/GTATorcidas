@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/layout">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <com.google.android.gms.ads.AdView android:id="@+id/adView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                ads:adUnitId="ca-app-pub-6309972780716096/6264936875"
+                ads:adSize="BANNER"/>
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="15dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_launcher"
+                android:id="@+id/imageTorcidaView"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:scaleType="fitXY"
+                android:text="SGL"
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaViewSigla"
+                android:textStyle="bold"
+                android:textSize="60sp"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="fitXY"
+                android:text="Nome Completo"
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaViewNome"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#FF0000"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:scaleType="fitXY"
+                android:text="Presidente: Iuri\nVice Presidente: Arthur\nDiretor: Visa &amp; Wolf\n\nResponsável x5 e CF: Iuri, Arthur &amp; Visa."
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaViewDir"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:scaleType="fitXY"
+                android:text="Skins: "
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaViewSkins"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:scaleType="fitXY"
+                android:text="Suporte:"
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaViewSuporteTitle"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#FF0000"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:scaleType="fitXY"
+                android:text="https://www.facebook.com/groups/217972231684876/"
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaViewSuporte"
+                android:textSize="12sp"
+                android:textColor="#000000"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:scaleType="fitXY"
+                android:text="Grito: (clique para abrir)"
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaGrito"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#FF0000"
+                />
+
+
+            <ImageView
+                android:layout_width="96dp"
+                android:layout_height="65dp"
+                android:layout_marginTop="5dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_play"
+                android:id="@+id/videoTorcidaGrito"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:scaleType="fitXY"
+                android:text="Video: (clique para abrir)"
+                android:textAlignment="center"
+                android:id="@+id/textTorcidaVideo"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#FF0000"
+                />
+
+            <ImageView
+                android:layout_width="96dp"
+                android:layout_height="65dp"
+                android:layout_marginTop="5dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_play"
+                android:id="@+id/videoTorcidaVideo"
+                android:layout_gravity="center_horizontal" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
