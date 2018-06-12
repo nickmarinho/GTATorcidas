@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GTATorcidas.iml" filepath="$PROJECT_DIR$/GTATorcidas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gt/gt.iml" filepath="$PROJECT_DIR$/gt/gt.iml" />
     </modules>
   </component>
 </project>
-
