@@ -1,0 +1,244 @@
+{
+  "torcidas": [
+      {
+          "id" : "1",
+          "name" : "TJF"
+      },
+      {
+          "id" : "2",
+          "name" : "RRN"
+      },
+      {
+          "id" : "3",
+          "name" : "FJV"
+      },
+      {
+          "id" : "4",
+          "name" : "FJB"
+      },
+      {
+          "id" : "5",
+          "name" : "TJB"
+      },
+      {
+          "id" : "6",
+          "name" : "TYF"
+      },
+      {
+          "id" : "7",
+          "name" : "TFF"
+      },
+      {
+          "id" : "8",
+          "name" : "IJV"
+      },
+      {
+          "id" : "9",
+          "name" : "UBZ"
+      },
+      {
+          "id" : "10",
+          "name" : "TTI"
+      },
+      {
+          "id" : "11",
+          "name" : "MV"
+      },
+      {
+          "id" : "12",
+          "name" : "GDF"
+      },
+      {
+          "id" : "13",
+          "name" : "TJ"
+      },
+      {
+          "id" : "14",
+          "name" : "C12"
+      },
+      {
+          "id" : "15",
+          "name" : "DDR"
+      },
+      {
+          "id" : "16",
+          "name" : "P9"
+      },
+      {
+          "id" : "17",
+          "name" : "CMA"
+      },
+      {
+          "id" : "18",
+          "name" : "TOG"
+      },
+      {
+          "id" : "19",
+          "name" : "TPI"
+      },
+      {
+          "id" : "20",
+          "name" : "HSG"
+      },
+      {
+          "id" : "21",
+          "name" : "TOF"
+      },
+      {
+          "id" : "22",
+          "name" : "IAV"
+      },
+      {
+          "id" : "23",
+          "name" : "TFI"
+      },
+      {
+          "id" : "24",
+          "name" : "CMS12"
+      },
+      {
+          "id" : "25",
+          "name" : "PPL"
+      },
+      {
+          "id" : "26",
+          "name" : "GDG"
+      },
+      {
+          "id" : "27",
+          "name" : "MVJ"
+      },
+      {
+          "id" : "28",
+          "name" : "TOGA"
+      },
+      {
+          "id" : "29",
+          "name" : "UT"
+      },
+      {
+          "id" : "30",
+          "name" : "FJG"
+      },
+      {
+          "id" : "31",
+          "name" : "TEV"
+      },
+      {
+          "id" : "32",
+          "name" : "TDA"
+      },
+      {
+          "id" : "33",
+          "name" : "IJG"
+      },
+      {
+          "id" : "34",
+          "name" : "TFB"
+      },
+      {
+          "id" : "35",
+          "name" : "TOR"
+      },
+      {
+          "id" : "36",
+          "name" : "TJFan"
+      },
+      {
+          "id" : "37",
+          "name" : "TJS"
+      },
+      {
+          "id" : "38",
+          "name" : "TOIC"
+      },
+      {
+          "id" : "39",
+          "name" : "FJY"
+      },
+      {
+          "id" : "40",
+          "name" : "TGI"
+      },
+      {
+          "id" : "41",
+          "name" : "TORC"
+      },
+      {
+          "id" : "42",
+          "name" : "TOCA"
+      },
+      {
+          "id" : "43",
+          "name" : "TOB"
+      },
+      {
+          "id" : "44",
+          "name" : "TUI"
+      },
+      {
+          "id" : "45",
+          "name" : "JGT"
+      },
+      {
+          "id" : "46",
+          "name" : "TUF"
+      },
+      {
+          "id" : "47",
+          "name" : "TOC"
+      },
+      {
+          "id" : "48",
+          "name" : "MOFI"
+      },
+      {
+          "id" : "49",
+          "name" : "TMV"
+      },
+      {
+          "id" : "50",
+          "name" : "TGA"
+      },
+      {
+          "id" : "51",
+          "name" : "FJBa"
+      },
+      {
+          "id" : "52",
+          "name" : "TUTB"
+      },
+      {
+          "id" : "53",
+          "name" : "TTA"
+      },
+      {
+          "id" : "54",
+          "name" : "TOMA"
+      },
+      {
+          "id" : "55",
+          "name" : "TOCAR"
+      },
+      {
+          "id" : "56",
+          "name" : "TOMN"
+      },
+      {
+          "id" : "57",
+          "name" : "TJGa"
+      },
+      {
+          "id" : "58",
+          "name" : "TJBpb"
+      },
+      {
+          "id" : "59",
+          "name" : "TFJ"
+      },
+      {
+        "id": "60",
+        "name": "TUV"
+      }
+    ]
+}
